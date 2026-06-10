@@ -8,7 +8,7 @@
 ## 🔗 Live Demo
 
 
-> `https://app.powerbi.com/view?r=eyJrIjoiYjg2ODE3YzQtZjljNS00MWZmLTg0YTgtZjkyZDEzYzg5MTFjIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D`
+> https://app.powerbi.com/view?r=eyJrIjoiYjg2ODE3YzQtZjljNS00MWZmLTg0YTgtZjkyZDEzYzg5MTFjIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
 
 ---
 
