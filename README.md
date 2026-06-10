@@ -153,5 +153,7 @@ smart-grid-dashboard/
 
 ---
 
+## 📄 License
 
+MIT — see [LICENSE](./LICENSE) for details.
 
